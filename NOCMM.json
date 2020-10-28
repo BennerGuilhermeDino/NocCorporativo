@@ -4,12 +4,7 @@
   "autoStart": false,
   "lazyLoadTabs": false,
   "websites": [
-    {
-      "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/ef776b20-f38e-4837-8f89-db39a28a8532/ReportSection?chromeless=true",
-      "duration": 15,
-      "tabReloadIntervalSeconds": 21600
-    },
-    {
+        {
       "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/3c33cd26-9e67-47c4-bf33-ec9d60a137de/ReportSection6c4da91a2adc342abcd2?chromeless=true",
       "duration": 15,
       "tabReloadIntervalSeconds": 15
