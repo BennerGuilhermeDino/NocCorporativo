@@ -10,7 +10,12 @@
       "tabReloadIntervalSeconds": 7200
     },
     { "_comment":"NOC - BPO",
-      "url": "https://app.powerbi.com/groups/me/reports/01f6b7e5-b76d-4745-a9a0-8f5756346430?chromeless=true",
+      "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/01f6b7e5-b76d-4745-a9a0-8f5756346430/ReportSection6c4da91a2adc342abcd2?chromeless=true",
+      "duration": 45,
+      "tabReloadIntervalSeconds": 120
+    },
+    { "_comment":"NOC - BPO2",
+      "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/01f6b7e5-b76d-4745-a9a0-8f5756346430/ReportSection6af28ec89d3435724297?chromeless=true",
       "duration": 45,
       "tabReloadIntervalSeconds": 120
     },
